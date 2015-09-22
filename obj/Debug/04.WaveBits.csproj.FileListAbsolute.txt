@@ -1,0 +1,5 @@
+C:\Users\Raia\Desktop\Софтуни Курс\06.Excersise\04.WaveBits\bin\Debug\04.WaveBits.exe
+C:\Users\Raia\Desktop\Софтуни Курс\06.Excersise\04.WaveBits\bin\Debug\04.WaveBits.pdb
+C:\Users\Raia\Desktop\Софтуни Курс\06.Excersise\04.WaveBits\obj\Debug\04.WaveBits.csprojResolveAssemblyReference.cache
+C:\Users\Raia\Desktop\Софтуни Курс\06.Excersise\04.WaveBits\obj\Debug\04.WaveBits.exe
+C:\Users\Raia\Desktop\Софтуни Курс\06.Excersise\04.WaveBits\obj\Debug\04.WaveBits.pdb
